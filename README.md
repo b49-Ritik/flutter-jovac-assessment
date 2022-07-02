@@ -4,14 +4,14 @@
 
 A new Flutter project for JoVAC Assessment.
 
-# 📱 App UI
+<!-- # 📱 App UI
 
  <details>
     <summary> Click here to expand </summary>
         <p align="center">
             <img src="https://github.com/b49-Ritik/flutter-jovac-assessment/blob/master/assets/github_readme/app_ui.gif?raw=true" width="300" />
         </p>
-</details>
+</details> -->
 
 
 ## Building from Source
